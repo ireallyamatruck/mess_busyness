@@ -1,2 +1,2 @@
 # mess_busyness
-an app that helps students time their mess entry
+a tool that helps students time their mess entry
